@@ -42,9 +42,9 @@ sudo yum install ffmpeg
 
 1. Скачайте скрипт:
 ```bash
-wget https://example.com/video_validator.sh
+wget https://raw.githubusercontent.com/pixfid/video_validator/refs/heads/main/video_validator.sh
 # или
-curl -O https://example.com/video_validator.sh
+curl -O https://raw.githubusercontent.com/pixfid/video_validator/refs/heads/main/video_validator.sh
 ```
 
 2. Сделайте файл исполняемым:
